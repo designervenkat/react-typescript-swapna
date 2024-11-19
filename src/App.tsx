@@ -16,10 +16,7 @@ export default function App() {
       {/* <Greet age={40} /> */}
       
       <Card title="iPhone" desc="This is iPhone" image="https://placehold.co/400" price={400} label="Add to Card" clickEvent={handleCart} onToggle={handleFav} />
-        
       
-     
-
     </div>
   )
 }
